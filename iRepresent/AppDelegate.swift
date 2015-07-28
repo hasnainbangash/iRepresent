@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  iRepresent
+//  IVote2
 //
-//  Created by Hasnain Khan on 7/28/15.
-//  Copyright (c) 2015 HasnainBangash. All rights reserved.
+//  Created by Hasnain Khan on 6/6/15.
+//  Copyright (c) 2015 IVote2. All rights reserved.
 //
 
 import UIKit
